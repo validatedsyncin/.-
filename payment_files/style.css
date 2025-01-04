@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Dancing+Script:wght@700&family=Inter:wght@400;600&family=Montserrat:wght@300;600;700&family=Open+Sans:ital,wght@0,400;0,500;1,300;1,400;1,500&family=Poppins:wght@200;400;600;800&display=swap");
 
 :root {
-  --background-color1: black;
+  --background-color1: #151d2f;
   --sec-back: #151d2f;
   --trans: transition: all 0.2s ease 0s;
   --card-color: #051331;
